@@ -87,8 +87,4 @@ These visualizations help interpret the model and identify key cardiovascular ri
 
 ---
 
-## How to Run the Project
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
